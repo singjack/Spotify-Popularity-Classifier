@@ -6,6 +6,7 @@ In order to achieve this, we used data [from a database found on Kaggle](https:/
 
 Features including acousticness, loudness, energy, danceability, etc. were all used in the classification process of whether or not a song is considered popular or not. We used the **Pandas** library in order to manipulate large dataframes.
 
+###Example of features used to predict song popularity
 ![Img of Database](https://i.ibb.co/pdmNshn/Annotation-2020-09-05-132657.png)
 
 
